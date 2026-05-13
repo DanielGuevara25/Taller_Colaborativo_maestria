@@ -355,8 +355,6 @@ Los resultados obtenidos demuestran cómo las técnicas de clustering pueden uti
 
 ---
 
-# Autores
-
 ## Equipo
 - Luis Sebastian Arias Loaiza
 - Christian David Guerra Castro
