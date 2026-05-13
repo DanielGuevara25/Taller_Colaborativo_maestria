@@ -355,6 +355,10 @@ Los resultados obtenidos demuestran cómo las técnicas de clustering pueden uti
 
 ---
 
-# Autor
+# Autores
 
-Proyecto académico desarrollado para el análisis de aprendizaje no supervisado y segmentación de clientes.
+## Equipo
+- Luis Sebastian Arias Loaiza
+- Christian David Guerra Castro
+- Angelo Daniel Guevara Salazar
+- Cristian Paul Quintana Velasquez
